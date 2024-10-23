@@ -1,4 +1,4 @@
-# Trading Bot with RSI Strategy
+# Investment Bot with RSI Strategy
 
 This is a simple trading bot built in Python that uses the **Relative Strength Index (RSI)** to generate buy and sell signals for cryptocurrency trading. The bot fetches historical price data from Binance using the `ccxt` library, calculates the RSI, and identifies trading opportunities based on the RSI values.
 
